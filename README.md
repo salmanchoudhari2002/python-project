@@ -1,1 +1,1 @@
-# python-project(Email Slicer)
+# Email Slicer using python 
